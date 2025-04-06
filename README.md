@@ -46,11 +46,13 @@ pandas==2.2.2
 
 ## 📸 Screenshots
 
-[Feedback Form Screenshot]
+![image](https://github.com/user-attachments/assets/260b67ae-81bd-49e6-9aff-a1cda354d04a)
+
 
 Student feedback collection interface with course/staff selection, rating system, and feedback input field.
 
-[Analytics Dashboard Screenshot]
+![image](https://github.com/user-attachments/assets/43ee20ac-667e-477e-b863-b63b9761ad84)
+
 
 Administrative dashboard showing sentiment analysis results, feedback summaries, and statistical visualizations.
 
@@ -127,8 +129,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions and support, please contact:
 
-- GitHub: [Your GitHub Username]
-- Email: [your.email@example.com]
+- GitHub: [lokeshwaran-12]
+- Email: [lokeshwarans@karunya.edu.in]
 
 ## 🤝 Contributing
 
