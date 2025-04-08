@@ -1,10 +1,5 @@
 # AI-Powered Feedback Analyzer for Academic Improvement
 
-Include Emojis: No
-Status: Draft
-
-# AI-Powered Feedback Analyzer for Academic Improvement
-
 A sophisticated web application that leverages artificial intelligence to transform academic feedback into actionable insights. Built with Streamlit and powered by advanced NLP capabilities, this tool helps educational institutions make data-driven decisions for continuous improvement.
 
 ## 🧠 Project Overview
